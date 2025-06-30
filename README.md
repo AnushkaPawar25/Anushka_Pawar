@@ -1,6 +1,5 @@
 
 **Candidate Name:** Anushka Pawar  
-**Position:** Full Stack Developer  
 **Submission Date:** 30/6/2025
 
 ## 🛠️ Technical Stack
